@@ -24,4 +24,4 @@ npm run dev
     -   Context api
     -   useState, useEffect
     -   react router v6
--   LocalStorage
+-   LocalStorag
